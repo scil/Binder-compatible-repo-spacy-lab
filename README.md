@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scil/Binder-compatible-repo-spacy-lab/master)
+
 # 如何用Python处理自然语言？（Spacy与Word Embedding）
 
 本文教你用简单易学的工业级Python自然语言处理软件包Spacy，对自然语言文本做词性分析、命名实体识别、依赖关系刻画，以及词嵌入向量的计算和可视化。
