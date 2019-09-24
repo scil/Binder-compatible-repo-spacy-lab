@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scil/Binder-compatible-repo-spacy-lab/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scil/Binder-compatible-repo-spacy-lab/master?urlpath=lab)
 
 # 如何用Python处理自然语言？（Spacy与Word Embedding）
 
